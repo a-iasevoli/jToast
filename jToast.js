@@ -31,7 +31,7 @@
 		removeToastAnimation($(this).parent());
 	});
 	
-	$.fn.jToast = function(options) {
+	jToast = function(options) {
 		
 		 var settings = $.extend( {
 		      'type' : 'info',
