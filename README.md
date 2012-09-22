@@ -1,7 +1,7 @@
 jToast
 ======
 
-A jQuery plugin to create notifications in toast style
+A jQuery plugin to create toast style notifications. (This version is still unstable)
 
 
 
